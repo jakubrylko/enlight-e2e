@@ -1,0 +1,18 @@
+{
+  "title": "JR Test Title ",
+  "shortDescription": "Short - Cras ut nunc eget erat auctor aliquet ut non velit. Quisque eu nisl lobortis, interdum felis vitae, dapibus ex.",
+  "longDescription": "Long - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin euismod dignissim magna, non semper arcu sagittis non. Curabitur dictum ullamcorper massa, in sollicitudin ex dignissim non. Quisque dapibus eros eu auctor auctor. Sed enim lorem, fermentum non rutrum et, gravida eu dolor. Suspendisse ac massa odio.",
+
+  "day": "20",
+  "monthNo": "05",
+  "monthText": "May",
+  "year": "2023",
+
+  "startHour": "03",
+  "startMinute": "00",
+  "startAmpm": "pm",
+
+  "endHour": "04",
+  "endMinute": "00",
+  "endAmPm": "pm"
+}
