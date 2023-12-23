@@ -1,6 +1,6 @@
 # Enlight E2E
 
-In this project, I developed automated tests using JavaScript and [Cypress](https://www.cypress.io/) during an internal workshop series at [Apptension](https://www.apptension.com/). Tests were conducted on our own products, such as [Teamdeck](https://teamdeck.io/) and [SaaS Boilerplate](https://www.apptension.com/saas-boilerplate). In addition to regular UI tests, I worked on Rest API and GraphQL tests. On top of that, I created some more advanced tests involving data mocking and environmental variable handling. Finally, I set up a basic configuration for ESLint and Prettier.
+In this project I would like to share automated E2E tests that I have developed during one of internal project at [Apptension](https://www.apptension.com/). The tests were written using [Cypress](https://www.cypress.io/) / JavaScript, except for Google login task for which I used the [Puppeteer](https://pptr.dev/) framework to deal with the limitations that Cypress has.
 
 ## Content
 * [Tests](https://github.com/jakubrylko/enlight-e2e/tree/main/cypress/e2e)
